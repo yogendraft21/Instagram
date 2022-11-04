@@ -1,0 +1,37 @@
+#navbar {
+    display: flex;
+    justify-content: center;
+  }
+  #navbar div {
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+  }
+  #logo {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+  }
+
+  #logo img {
+    width: 30%;
+  }
+
+  #search {
+    flex: 2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+  }
+  #search input{
+
+    height: 40%;
+    width: 80%;
+ 
+  }
+
+  #options {
+    flex: 3;
+    display: flex;
+    align-items: center;
+  }

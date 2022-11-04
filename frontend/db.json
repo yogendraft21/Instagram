@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "caption": "mountain",
+      "image_url": "https://i.ibb.co/F4vhVSg/1.png"
+    },
+    {
+      "id": "4",
+      "caption": "mo maya",
+      "image_url": "https://i.ibb.co/jLQ7Ch8/2.png"
+    },
+    {
+      "id": "5",
+      "caption": "kacha badam",
+      "image_url": "https://i.ibb.co/w7jyVRg/3.png"
+    },
+    {
+      "id": "6",
+      "caption": "chill",
+      "image_url": "https://i.ibb.co/F58G8Yh/6.png"
+    },
+    {
+      "id": "1",
+      "caption": "yo yo",
+      "image_url": "https://i.ibb.co/stgDzJf/html5-logo-31819.png"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
